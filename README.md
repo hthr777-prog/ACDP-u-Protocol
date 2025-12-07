@@ -1,4 +1,4 @@
-# 🧭 ACDP–Universal v6
+# 🧭 ACDP–Universal
 
 ### Abstract Concept Disambiguation Protocol – Universal Edition
 A protocol for the identification, decomposition, and generation of answers for abstract concepts.
