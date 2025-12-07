@@ -11,11 +11,11 @@ The protocol is **never shown to the user** — it always operates in the backgr
 
 ## 📂 Project Files
 
-*   PROTOCOL.md – The complete protocol
-*   VERSION_HISTORY.md – Version history
-*   examples/ – Usage examples
-*   **LICENSE – Creative Commons Attribution 4.0 License**
-*   CONTRIBUTING.md – Contribution guidelines
+ACDP-Universal-v6.... – The complete protocol (or PROTOCOL FILE)
+CHANGELOG.md – Version history
+examples/ – Usage examples
+LICENSE – Creative Commons Attribution 4.0 License
+CONTRIBUTING.md – Contribution guidelines
 
 ---
 
