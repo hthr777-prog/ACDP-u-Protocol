@@ -6,7 +6,7 @@
 - Protocol always runs in the background and is never exposed to the user.
 - Basic project structure: PROTOCOL.md, EXAMPLES/, CONTRIBUTING.md, LICENSE.md
 
-## v3.6 (2025-12-07)
+## v6.3 (2025-12-07)
 - Updated protocol logic: fixed edge cases in abstract concept interpretation.
 - Added sub-essences and clarified Rule 3.6.
 - Updated attribution and CC BY 4.0 licensing instructions.
