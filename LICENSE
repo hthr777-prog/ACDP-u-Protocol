@@ -1,38 +1,266 @@
-THE KENIGSBERG PROPRIETARY LICENSE (KPL)
+# THE KENIGSBERG PROPRIETARY LICENSE (KPL) v2.0
+## Community Edition (Six-Month Trial)
 
-Copyright © 2025 Michael Kenigsberg. All rights reserved.
+**Copyright © 2025 Michael Kenigsberg. All rights reserved.**
 
-1. Definitions
+---
 
-*   The Work: Refers to the original source code, object code, documentation, and all related materials created by the Copyright Holder and licensed under this License.
-*   Copyright Holder: Refers to Michael Kenigsberg.
-*   Licensee: Refers to any individual or entity that receives or uses The Work under the terms of this License.
+## 1. DEFINITIONS
 
-2. Grant of License
+**The Work**: Refers to the ACDP-Universal protocol, including all source code, object code, documentation, prompts, instructions, methodologies, and all related materials created by the Copyright Holder and licensed under this License.
 
-a. Limited Commercial Use: The Copyright Holder hereby grants the Licensee a non-exclusive, non-transferable, and revocable license to use, execute, and privately modify The Work solely for the purpose of internal commercial operations or personal use.
-b. Restrictions: The Licensee is expressly prohibited from:
-    *   Sub-licensing, selling, distributing, or otherwise transferring The Work, in whole or in part, to any third party.
-    *   Publicly displaying, performing, or publishing any derivative work based on The Work.
-    *   Using The Work as a component of any publicly distributed software product or SaaS offering without a separate, written commercial agreement with the Copyright Holder.
-    *   Removing or obscuring any copyright notices, proprietary markings, or disclaimers from The Work.
+**Copyright Holder**: Refers to Michael Kenigsberg.
 
-3. Exclusive Ownership
+**Licensee**: Refers to any individual or entity that receives or uses The Work under the terms of this License.
 
-The Copyright Holder is the sole and exclusive owner of all copyright interests in The Work, including all historical versions and source code. No third party has contributed code or any other intellectual property to The Work. This fact is the legal foundation for the retroactive license replacement as stated in Section 6.
+**Acquisition Date**: The date on which the Licensee first downloaded, cloned, or otherwise obtained a copy of The Work. This date marks the beginning of the Six-Month Trial Period.
 
-4. Termination
+**Six-Month Trial Period**: A period of exactly six (6) calendar months commencing on the Acquisition Date.
 
-This License is effective until terminated. The Licensee’s rights under this License will terminate automatically without notice from the Copyright Holder if the Licensee fails to comply with any term(s) of this License. Upon termination, the Licensee must cease all use of The Work and destroy all copies (source code and object code) in their possession.
+**Internal Use**: Use of The Work within an organization's own systems and operations, where the outputs or functionality of The Work are not directly exposed to, sold to, or provided as a service to external third parties or customers.
 
-5. Disclaimer of Warranty
+**Community Edition**: This license and The Work distributed under its terms, intended for the Six-Month Trial Period only.
 
-THE WORK IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY.
+**Enterprise Edition**: A separate commercial license available from the Copyright Holder that permits continued use after the Six-Month Trial Period and grants additional permanent rights.
 
-6. Retroactive License Replacement
+---
 
-This License supersedes and replaces any prior licenses that may have applied to the source code of The Work, specifically including the Creative Commons Attribution 4.0 International License (CC BY 4.0), which is hereby terminated and nullified retroactively for all versions of The Work. Since the Copyright Holder is the exclusive owner of The Work (as stated in Section 3) and no third party has yet relied upon the previous license, this replacement is fully effective.
+## 2. GRANT OF LICENSE (SIX-MONTH TRIAL)
 
-7. Governing Law
+### 2a. Permitted Use
 
-This License shall be governed by the laws of the State of Israel.
+The Copyright Holder hereby grants the Licensee a non-exclusive, non-transferable, revocable, and royalty-free license **for the duration of the Six-Month Trial Period only**, to use, execute, and privately modify The Work solely for the following purposes only:
+
+**i. Personal Use**: Individual, non-commercial personal projects, learning, experimentation, and personal productivity.
+
+**ii. Academic and Research Use**: Educational purposes, academic research, and non-commercial scholarly activities.
+
+**iii. Internal Business Operations**: Use within the Licensee's organization for internal operational purposes, as defined in Section 1.
+
+### 2b. Prohibited Use (Permanent Prohibitions)
+
+The Licensee is **permanently prohibited** from:
+
+**i. Distribution and Transfer**: Sub-licensing, selling, distributing, leasing, or otherwise transferring The Work, in whole or in part, to any third party in any form.
+
+**ii. Public Derivative Works**: Publicly displaying, performing, or publishing any derivative work, modification, or adaptation based on The Work.
+
+**iii. Customer-Facing Use**: Using The Work as a component, feature, or underlying technology of any product, service, or application that is offered, sold, licensed, or provided to external customers, clients, or third parties (even during the trial).
+
+**iv. Software-as-a-Service (SaaS)**: Using The Work to provide hosted services, cloud services, or SaaS offerings to third parties, whether free or paid (even during the trial).
+
+**v. Removal of Notices**: Removing, obscuring, or altering any copyright notices, proprietary markings, license references, or disclaimers from The Work.
+
+### 2c. Mandatory Requirement After Trial
+
+**Upon expiration of the Six-Month Trial Period, the Licensee must immediately either (1) cease all use of The Work or (2) obtain a valid Enterprise Edition license for continued use.**
+
+---
+
+## 3. EXCLUSIVE OWNERSHIP
+
+The Copyright Holder is the sole and exclusive owner of all copyright interests, intellectual property rights, and proprietary rights in The Work, including all historical versions, current versions, and future versions. No third party has contributed code, documentation, methodologies, or any other intellectual property to The Work. This exclusive ownership is a critical foundation for the license terms, including the effective date provisions in Section 6.
+
+---
+
+## 4. TERMINATION
+
+### 4a. Automatic Termination
+
+This License is effective until terminated. The Licensee's rights under this License will terminate automatically and immediately, without notice from the Copyright Holder, upon the earlier of:
+i. The Licensee's failure to comply with any term or condition of this License (Violation).
+ii. **The expiration of the Six-Month Trial Period.**
+
+### 4b. Effect of Termination
+
+Upon termination of this License, the Licensee must immediately:
+- Cease all use of The Work
+- Destroy all copies of The Work in the Licensee's possession or control, including source code, object code, documentation, and derivatives
+- Certify in writing to the Copyright Holder the destruction of all such copies, if requested
+
+### 4c. Survival
+
+Sections 3 (Exclusive Ownership), 5 (Disclaimer of Warranty), 6 (Effective Date), 11 (Governing Law), and 12 (Entire Agreement) shall survive any termination of this License.
+
+---
+
+## 5. DISCLAIMER OF WARRANTY
+
+THE WORK IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK.
+
+---
+
+## 6. EFFECTIVE DATE AND PRIOR LICENSES
+
+### 6a. Effective Date
+
+This License (KPL v2.0 Community Edition - Six-Month Trial) is effective as of **[DATE OF DEPLOYMENT]** and applies to all versions of The Work distributed from this date forward.
+
+### 6b. Superseding Prior Licenses
+
+This License supersedes and replaces any prior licenses that may have been associated with The Work, including but not limited to the Creative Commons Attribution 4.0 International License (CC BY 4.0) or the MIT License.
+
+### 6c. Affirmation of No Prior Reliance
+
+The Copyright Holder affirms and represents that:
+i. No third party has downloaded, cloned, forked, copied, or otherwise accessed or obtained The Work under any prior license.
+ii. To the best of the Copyright Holder's knowledge, no third party has relied upon, used, or built upon any prior license terms associated with The Work.
+
+### 6d. Legal Effect
+
+Based on the affirmations in Section 6c, and given that no third party has acquired rights under or relied upon any prior license, this License replacement is fully effective for all existing and future versions of The Work as of the effective date specified in Section 6a.
+
+---
+
+## 7. FUTURE VERSIONS AND LICENSE EVOLUTION
+
+### 7a. Version Control
+
+This License applies to the specific version of The Work with which it is distributed. The Copyright Holder may release future versions of The Work under this License or under different license terms at the Copyright Holder's sole discretion.
+
+### 7b. No Automatic Updates
+
+The Licensee's rights under this License apply only to the version of The Work obtained under this License. The Licensee has no automatic right to updates, upgrades, or future versions of The Work.
+
+### 7c. Future Licensing Options
+
+The Copyright Holder may, at any time and at the Copyright Holder's sole discretion:
+
+**i.** Release future versions of The Work under this Community Edition license
+**ii.** Release future versions under a different license, including an Enterprise Edition license with expanded permissions
+**iii.** Offer dual licensing options (Community Edition and Enterprise Edition simultaneously)
+**iv.** Modify or update this License for future versions
+
+### 7d. No Obligation
+
+The Copyright Holder has no obligation to maintain this License for future versions and may change licensing terms at any time for new releases.
+
+---
+
+## 8. COMMERCIAL LICENSING PATH (ENTERPRISE EDITION)
+
+### 8a. Availability of Enterprise License
+
+The Copyright Holder offers an Enterprise Edition license for The Work that grants additional rights beyond those provided in this Community Edition license.
+
+### 8b. Enterprise Edition Rights
+
+An Enterprise Edition license may include, but is not limited to, the following additional permissions:
+
+**i.** Use of The Work in customer-facing products and services
+**ii.** Use of The Work in Software-as-a-Service (SaaS) offerings
+**iii.** Commercial redistribution rights
+**iv.** Public API and service offerings
+**v.** Sublicensing rights (in certain cases)
+**vi.** Priority technical support and service level agreements (SLAs)
+**vii.** Access to advanced features and capabilities not available in Community Edition
+**viii.** Custom licensing terms negotiated with the Copyright Holder
+
+### 8c. Obtaining Enterprise License
+
+Any Licensee seeking to use The Work in ways prohibited under Section 2b of this Community Edition license or seeking continued use after the Six-Month Trial Period must obtain a separate Enterprise Edition license. To inquire about Enterprise Edition licensing:
+
+**Contact**: [YOUR CONTACT EMAIL]
+**Website**: [YOUR WEBSITE]
+
+Enterprise Edition licensing terms, pricing, and conditions are determined by separate written agreement with the Copyright Holder.
+
+### 8d. No Implied Rights
+
+Nothing in this Community Edition license grants, implies, or should be construed as granting any rights included in an Enterprise Edition license. All Enterprise Edition rights must be explicitly obtained through a separate written agreement.
+
+---
+
+## 9. GRANDFATHERING AND LICENSE CHANGES
+
+### 9a. Stability for Current Version
+
+The license terms under which the Licensee obtained a specific version of The Work will continue to apply to that specific version, subject to the termination provisions in Section 4.
+
+### 9b. Future Version Changes
+
+If the Copyright Holder changes the license terms for future versions of The Work, such changes will not retroactively affect the Licensee's rights to use prior versions obtained under this License, provided the Licensee remains in compliance with this License.
+
+### 9c. No Guarantee of Future Availability
+
+The Copyright Holder makes no guarantee that future versions will be available under this Community Edition license. The Copyright Holder may discontinue the Community Edition at any time.
+
+### 9d. Migration Path
+
+If the Copyright Holder offers a migration path from Community Edition to Enterprise Edition for existing users, such path and its terms will be communicated separately and are not guaranteed by this License.
+
+---
+
+## 10. NO EXTERNAL CONTRIBUTIONS
+
+### 10a. Closed Development
+
+The Work is developed exclusively by the Copyright Holder. The Copyright Holder does not accept external contributions, including but not limited to:
+- Code contributions
+- Pull requests
+- Patches
+- Documentation contributions
+- Feature additions
+- Bug fixes from third parties
+
+### 10b. Feedback and Suggestions
+
+While the Copyright Holder may accept feedback, suggestions, and bug reports from users, such communications do not constitute contributions to The Work and do not grant the communicating party any rights to The Work.
+
+Any feedback or suggestions provided to the Copyright Holder may be used by the Copyright Holder without restriction or obligation.
+
+### 10c. Rationale
+
+This closed development model is maintained to:
+- Preserve exclusive ownership (Section 3)
+- Enable flexible licensing changes (Section 7)
+- Support the dual licensing business model (Section 8)
+- Maintain clear intellectual property rights
+
+---
+
+## 11. GOVERNING LAW
+
+This License shall be governed by and construed in accordance with the laws of the **State of Israel**, without regard to its conflict of law provisions.
+
+Any legal action or proceeding arising under this License will be brought exclusively in the courts located in Israel, and the parties hereby consent to personal jurisdiction and venue therein.
+
+---
+
+## 12. ENTIRE AGREEMENT
+
+This License constitutes the entire agreement between the Copyright Holder and the Licensee regarding The Work and supersedes all prior or contemporaneous understandings and agreements, whether written or oral, regarding The Work.
+
+---
+
+## 13. SEVERABILITY
+
+If any provision of this License is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law, and the remaining provisions will continue in full force and effect.
+
+---
+
+## 14. WAIVER
+
+No waiver of any term or condition of this License shall be deemed a further or continuing waiver of such term or condition or any other term or condition, and the Copyright Holder's failure to assert any right or provision under this License shall not constitute a waiver of such right or provision.
+
+---
+
+## 15. CONTACT INFORMATION
+
+For questions about this License, Enterprise Edition licensing, or The Work:
+
+**Copyright Holder**: Michael Kenigsberg  
+**Email**: [YOUR CONTACT EMAIL]  
+**Repository**: [YOUR REPOSITORY URL]  
+
+---
+
+## ACKNOWLEDGMENT
+
+By using, copying, or distributing The Work, the Licensee acknowledges that they have read this License, understand it, and agree to be bound by its terms and conditions.
+
+---
+
+**END OF LICENSE**
