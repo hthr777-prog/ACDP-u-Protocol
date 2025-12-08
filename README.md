@@ -7,7 +7,7 @@ A protocol for identifying, decomposing, and neutrally presenting inherently amb
 ⚖️ Copyright & Legal Status
 This document and the ACDP protocol itself — including its structure, terminology, definitions,
 conceptual taxonomy, classification scheme, stage sequence, and methodological framework —
-constitute copyrighted intellectual property of Michael Kenigsberg.
+connote copyrighted intellectual property of Michael Kenigsberg.
 
 The names “ACDP”, “Universal Abstract Concept Disambiguation Protocol”,
 and any substantially similar identifiers are used here as protected marks
@@ -28,6 +28,18 @@ These provisional terms may be replaced by a formal long-term license in a futur
 Until such replacement occurs, these terms govern all use.
 📬 Contact for Licensing, Collaboration, or Inquiries
 hthr777@gmail.com
+
+---
+
+### 📝 Attribution Requirement (Required Citation Format)
+
+Per the terms of the Provisional Copyright Notice and the Limited Use License, any personal, research, or academic use of the ACDP Protocol must include the following complete citation in all publications, presentations, or derived works:
+
+**Preferred Citation (English):**
+Michael Kenigsberg, ACDP – Universal Abstract Concept Disambiguation Protocol (Universal Edition v6.3), 2025. [Available at: https://github.com/hthr777-prog/ACDP-u-Protocol]
+
+**Preferred Citation (Hebrew):**
+מייקל קניגסברג, פרוטוקול ACDP – Universal Abstract Concept Disambiguation Protocol (מהדורה אוניברסלית v6.3), 2025. [זמין: https://github.com/hthr777-prog/ACDP-u-Protocol]
 
 ---
 
