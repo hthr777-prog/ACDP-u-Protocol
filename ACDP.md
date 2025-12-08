@@ -1,3 +1,11 @@
+# ACDP 6.3 — Universal Protocol
+**Official Comprehensive Protocol**  
+Current stable version — December 2025
+
+This is the main file recommended for default use.  
+All minimal variants (Core, Core+Root, Root-Only, etc.) are optional derivatives of this universal protocol.
+
+
 # ACDP–Universal v6.3
 
 **Binding Instruction:** After reading the protocol – reply **only** with the exact following text:
