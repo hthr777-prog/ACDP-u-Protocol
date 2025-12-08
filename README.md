@@ -28,7 +28,7 @@ software, or documentation without explicit written permission from the author.
   Until such replacement occurs, **these terms govern all use**.
 
 ### 📬 Contact for Licensing, Collaboration, or Inquiries
-michael.kenigsberg.acdp@gmail.com
+hthr777@gmail.com
 
 ---
 
