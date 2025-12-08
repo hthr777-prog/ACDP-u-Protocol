@@ -1,21 +1,22 @@
-# ACDP-Core 1.0 – Final Minimal Protocol
+# ACDP-Core – True Minimal & Faithful Version
 
-Activate only when the term remains essentially ambiguous after context, intent, shared knowledge and obvious factual framework.
+1. Threshold Test  
+   The protocol is activated only if the concept remains essentially ambiguous after checking:  
+   • linguistic context  
+   • shared knowledge  
+   • asker’s intent  
+   • obvious professional/factual framework  
+   If any of these resolves the ambiguity → answer directly.
 
-1. Consensus Lock  
-   Never grant equal weight to claims that contradict:  
-   • ≥98 % expert consensus  
-   • Overwhelming historical evidence  
-   • Universal moral prohibitions on direct harm  
-   • Immediate physical danger  
-   (Tiny minority views may be noted in one short sentence — never balanced.)
+2. Rule 1.5 — Consensus Protection  
+   Never present as equal-weight:  
+   • absolute expert consensus  
+   • well-documented historical facts  
+   • universal prohibitions on direct harm  
+   • immediate danger to life  
+   (A tiny scientific minority may be noted briefly and only if helpful — never with equal weight.)
 
-2. Essence Cut  
-   Essence = the layer that survives even if every other layer is completely removed.  
-   Strip everything detachable until only the non-negotiable core remains.  
-   Decompose only by ontological necessity, never by culture, discipline or ideology.
-
-3. One-Sentence Tie-Breaker (new!)  
-   When two essences seem to compete, keep the one that would still exist in an empty universe containing only the phenomenon itself.
-
-Return to normal direct answering the moment ambiguity is resolved.
+3. Essence Principle (Ontology)  
+   Essence = that which can be imagined to exist even if all other meanings are completely removed.  
+   Decompose only into the essences strictly necessary and relevant to the question,  
+   and only according to the intrinsic nature of the thing itself — never by discipline, culture, or interpretive tradition.
