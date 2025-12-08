@@ -1,35 +1,38 @@
-# ACDP – License (Private & Non-Commercial Use Only)
-# Copyright © 2025 Michael Kenigsberg. All rights reserved.
+THE KENIGSBERG PROPRIETARY LICENSE (KPL)
 
-**1. Scope of Use**
+Copyright © 2025 Michael Kenigsberg. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of the ACDP Protocol (hereinafter: "The Work"), **for personal, private, and non-commercial use only**. This permission includes the right to read, study, and privately implement The Work.
+1. Definitions
 
-**2. Absolute Prohibitions**
+*   The Work: Refers to the original source code, object code, documentation, and all related materials created by the Copyright Holder and licensed under this License.
+*   Copyright Holder: Refers to Michael Kenigsberg.
+*   Licensee: Refers to any individual or entity that receives or uses The Work under the terms of this License.
 
-This license **expressly prohibits** any use, copying, or distribution that does not comply with the definition of private and non-commercial use. Prohibitions include, but are not limited to:
+2. Grant of License
 
-* Commercial use, sale, lease, or creation of direct or indirect profit from The Work or its derivatives.
-* Use within companies, organizations, public institutions, non-profits, or any activity conducted for profit or that is not strictly private.
-* Offering The Work or its method as a service (e.g., SaaS, consulting, training, or as part of a product).
-* **Redistribution or publication of The Work in its original form or any modified version (Derivatives).**
+a. Limited Commercial Use: The Copyright Holder hereby grants the Licensee a non-exclusive, non-transferable, and revocable license to use, execute, and privately modify The Work solely for the purpose of internal commercial operations or personal use.
+b. Restrictions: The Licensee is expressly prohibited from:
+    *   Sub-licensing, selling, distributing, or otherwise transferring The Work, in whole or in part, to any third party.
+    *   Publicly displaying, performing, or publishing any derivative work based on The Work.
+    *   Using The Work as a component of any publicly distributed software product or SaaS offering without a separate, written commercial agreement with the Copyright Holder.
+    *   Removing or obscuring any copyright notices, proprietary markings, or disclaimers from The Work.
 
-**3. No Distribution of Derivatives**
+3. Exclusive Ownership
 
-The user is permitted to modify The Work and use the modified version **for private and non-commercial purposes only**. **Strict prohibition applies to the distribution, publication, or public disclosure of any modified or derivative version of The Work.**
+The Copyright Holder is the sole and exclusive owner of all copyright interests in The Work, including all historical versions and source code. No third party has contributed code or any other intellectual property to The Work. This fact is the legal foundation for the retroactive license replacement as stated in Section 6.
 
-**4. Disclaimer (NO WARRANTY)**
+4. Termination
 
-THE WORK IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM THE WORK, OR FROM USE OR OTHER DEALINGS IN THE WORK, including, but not limited to, damages arising from the use of AI guided by this protocol.
+This License is effective until terminated. The Licensee’s rights under this License will terminate automatically without notice from the Copyright Holder if the Licensee fails to comply with any term(s) of this License. Upon termination, the Licensee must cease all use of The Work and destroy all copies (source code and object code) in their possession.
 
-**5. Commercial Licensing**
+5. Disclaimer of Warranty
 
-For commercial or public-use licensing, please contact: hthr777@gmail.com
+THE WORK IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY.
 
-**6. License Replacement**
+6. Retroactive License Replacement
 
-The previous license (CC-BY 4.0) was replaced on **December 8, 2025**. Since no third party has yet relied upon it, this replacement is fully effective.
+This License supersedes and replaces any prior licenses that may have applied to the source code of The Work, specifically including the Creative Commons Attribution 4.0 International License (CC BY 4.0), which is hereby terminated and nullified retroactively for all versions of The Work. Since the Copyright Holder is the exclusive owner of The Work (as stated in Section 3) and no third party has yet relied upon the previous license, this replacement is fully effective.
 
-**7. Governing Law and Jurisdiction**
+7. Governing Law
 
-This license shall be governed by and construed in accordance with the laws of the **State of Israel**. The exclusive jurisdiction for any dispute arising out of or related to this license shall be the competent courts in the city of **Tel Aviv-Yafo, Israel.**
+This License shall be governed by the laws of the State of Israel.
