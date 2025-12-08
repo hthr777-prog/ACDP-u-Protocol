@@ -1,5 +1,4 @@
-ACDP–Universal
-Abstract Concept Disambiguation Protocol – Universal Edition
+ACDP–Universal Abstract Concept Disambiguation Protocol – Universal Edition 
 A protocol for the identification, decomposition, and balanced presentation of abstract concepts with inherent ambiguity.
 
 📌 What is ACDP?
@@ -16,25 +15,26 @@ ACDP handles ambiguity that context cannot resolve.
 
 It combines:
 
-Smart Threshold Test: Activates only when linguistic/professional/factual context fails to disambiguate
-Ontological Decomposition: Classifies by the nature of things themselves (not by discipline, culture, or thinker)
-Hierarchical Mapping: Organizes essence-level aspects → sub-aspects → nuances
-Neutrality by Design: Presents all relevant perspectives without bias or premature resolution
-Consensus Protection: Respects established scientific/historical consensus while handling genuine philosophical diversity
+*   Smart Threshold Test: Activates only when linguistic/professional/factual context fails to disambiguate
+*   Ontological Decomposition: Classifies by the nature of things themselves (not by discipline, culture, or thinker)
+*   Hierarchical Mapping: Organizes essence-level aspects → sub-aspects → nuances
+*   Neutrality by Design: Presents all relevant perspectives without bias or premature resolution
+*   Consensus Protection: Respects established scientific/historical consensus while handling genuine philosophical diversity
 
 🔬 How It Differs from Existing Approaches
-Approach	What It Does	ACDP's Difference
-WordNet/WSD	Resolves word ambiguity ("bank") via context	Handles concepts where context doesn't resolve ambiguity ("value," "justice")
-Frame Semantics	Maps linguistic frames and usage patterns	Focuses on ontological essence, not just linguistic usage
-Ontology Engineering	Builds knowledge graphs for factual/technical domains	Targets abstract philosophical concepts with no single "correct" meaning
-Wittgensteinian Analysis	Deconstructs false philosophical questions	Constructs systematic maps of legitimate multiple answers
-Polysemy Research	Studies words with related meanings	Addresses concepts with fundamentally different coexisting aspects
+| Approach | What It Does | ACDP's Difference |
+| :--- | :--- | :--- |
+| WordNet/WSD | Resolves word ambiguity ("bank") via context | Handles concepts where context doesn't resolve ambiguity ("value," "justice") |
+| Frame Semantics | Maps linguistic frames and usage patterns | Focuses on ontological essence, not just linguistic usage |
+| Ontology Engineering | Builds knowledge graphs for factual/technical domains | Targets abstract philosophical concepts with no single "correct" meaning |
+| Wittgensteinian Analysis | Deconstructs false philosophical questions | Constructs systematic maps of legitimate multiple answers |
+| Polysemy Research | Studies words with related meanings | Addresses concepts with fundamentally different coexisting aspects |
 
 💡 Use Cases
-AI Alignment: Handle abstract ethical concepts (fairness, harm, autonomy) without hidden bias
-Philosophical Education: Navigate complex concepts (consciousness, free will, truth) systematically
-Policy & Ethics: Address value-laden terms (freedom, equality, security) from multiple legitimate angles
-Cross-Cultural Communication: Recognize that abstract concepts may have different but equally valid interpretations
+*   AI Alignment: Handle abstract ethical concepts (fairness, harm, autonomy) without hidden bias
+*   Philosophical Education: Navigate complex concepts (consciousness, free will, truth) systematically
+*   Policy & Ethics: Address value-laden terms (freedom, equality, security) from multiple legitimate angles
+*   Cross-Cultural Communication: Recognize that abstract concepts may have different but equally valid interpretations
 
 🚀 Key Features
 ✅ Context-Resistant Ambiguity Detection – Identifies when concepts remain genuinely ambiguous after context
@@ -44,57 +44,48 @@ Cross-Cultural Communication: Recognize that abstract concepts may have differen
 ✅ LLM Integration Ready – Works as system prompt for Claude, GPT, and other models
 ✅ Consensus Safeguards – Never presents fringe views as equal to overwhelming expert consensus
 
----
-
 📂 Project Structure
-ACDP-Universal-v6.3.md     – The complete protocol (PROTOCOL FILE)
-README.md                  – This file
-CHANGELOG.md               – Version history
-examples/                  – Usage examples
-**LICENSE                    – Private & Non-Commercial License (English)**
-**LICENSE.he                 – רישיון עברי מחייב (Hebrew Binding Text)**
-CONTRIBUTING.md            – Contribution guidelines
+*   ACDP-Universal-v6.3.md – The complete protocol (PROTOCOL FILE)
+*   README.md – This file
+*   CHANGELOG.md – Version history
+*   examples/ – Usage examples
+*   **LICENSE – Kenigsberg Proprietary License (KPL) v2.0 Community Edition (English)**
+*   **LICENSE.he – KPL v2.0 Community Edition (עברית מחייבת)**
+*   CONTRIBUTING.md – Contribution guidelines
 
 ---
 
-⚖️ Licensing
-This project is licensed under the **ACDP-u-Protocol Private & Non-Commercial License.**
+**⚖️ Licensing**
+This project is licensed under the **Kenigsberg Proprietary License (KPL) v2.0 Community Edition - Six-Month Trial.**
 
-**🚫 Absolute Restriction:** 
-**This Work is provided for Private, Non-Commercial Use Only.**
-**Distribution, redistribution, publication, or commercial use is strictly prohibited.**
+🚫 **IMPORTANT: Six-Month Trial Period & Commercial Path**
+This Work is provided under a time-limited trial license, permitting **Internal Business Use** for **six (6) months only.** After the trial, you must purchase the **Enterprise Edition** or cease all use. Customer-facing use, distribution, or SaaS deployment is strictly prohibited even during the trial.
 
-Full terms and conditions are detailed in the `LICENSE` (English) and `LICENSE.he` (Hebrew) files.
+Full terms and conditions are detailed in the LICENSE (English) and LICENSE.he (Hebrew) files.
 
 ---
 
-🤝 Contributing
+🤝 **Contributing**
 Contributions welcome! See CONTRIBUTING.md for guidelines.
 
 Areas of interest:
+*   Additional examples and test cases
+*   Implementation frameworks for different LLMs
+*   Domain-specific extensions (medical ethics, political philosophy, etc.)
+*   Translations
+*   Performance evaluations
 
-Additional examples and test cases
-Implementation frameworks for different LLMs
-Domain-specific extensions (medical ethics, political philosophy, etc.)
-Translations
-Performance evaluations
-
----
-
-📧 Contact
+📧 **Contact**
 Author: Michael Kenigsberg
 Repository: https://github.com/hthr777-prog/ACDP-u-Protocol
-License: ACDP-u-Protocol Private & Non-Commercial
+**License: KPL v2.0 Community Edition (Six-Month Trial)**
 
----
-
-🙏 Acknowledgments
+🙏 **Acknowledgments**
 This protocol synthesizes insights from:
-
-Ludwig Wittgenstein's later philosophy (language games, family resemblance)
-Contemporary ontology engineering and knowledge representation
-AI alignment and bias mitigation research
-Natural language processing (disambiguation, semantic analysis)
+*   Ludwig Wittgenstein's later philosophy (language games, family resemblance)
+*   Contemporary ontology engineering and knowledge representation
+*   AI alignment and bias mitigation research
+*   Natural language processing (disambiguation, semantic analysis)
 Version: 6.3
 Last Updated: December 2025
-**License Replacement Date: December 8, 2025. The previous CC BY 4.0 license has been replaced by the ACDP-u-Protocol Private & Non-Commercial License.**
+**License Replacement Date: December 8, 2025. The previous CC BY 4.0 license has been replaced by the Kenigsberg Proprietary License (KPL) v2.0 Community Edition - Six-Month Trial.**
