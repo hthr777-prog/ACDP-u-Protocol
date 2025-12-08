@@ -50,7 +50,6 @@ It combines:
 *   CHANGELOG.md – Version history
 *   examples/ – Usage examples
 *   **LICENSE – Kenigsberg Proprietary License (KPL) v2.0 Community Edition (English)**
-*   **LICENSE.he – KPL v2.0 Community Edition (עברית מחייבת)**
 *   CONTRIBUTING.md – Contribution guidelines
 
 ---
@@ -61,7 +60,7 @@ This project is licensed under the **Kenigsberg Proprietary License (KPL) v2.0 C
 🚫 **IMPORTANT: Six-Month Trial Period & Commercial Path**
 This Work is provided under a time-limited trial license, permitting **Internal Business Use** for **six (6) months only.** After the trial, you must purchase the **Enterprise Edition** or cease all use. Customer-facing use, distribution, or SaaS deployment is strictly prohibited even during the trial.
 
-Full terms and conditions are detailed in the LICENSE (English) and LICENSE.he (Hebrew) files.
+Full terms and conditions are detailed in the **LICENSE (English) file**.
 
 ---
 
