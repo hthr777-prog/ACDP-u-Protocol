@@ -1,4 +1,4 @@
-ACDP–Universal Abstract Concept Disambiguation Protocol – Universal Edition 
+ACDP–Universal Abstract Concept Disambiguation Protocol – Universal Edition
 A protocol for the identification, decomposition, and balanced presentation of abstract concepts with inherent ambiguity.
 
 📌 What is ACDP?
@@ -22,6 +22,7 @@ It combines:
 *   Consensus Protection: Respects established scientific/historical consensus while handling genuine philosophical diversity
 
 🔬 How It Differs from Existing Approaches
+
 | Approach | What It Does | ACDP's Difference |
 | :--- | :--- | :--- |
 | WordNet/WSD | Resolves word ambiguity ("bank") via context | Handles concepts where context doesn't resolve ambiguity ("value," "justice") |
@@ -31,6 +32,7 @@ It combines:
 | Polysemy Research | Studies words with related meanings | Addresses concepts with fundamentally different coexisting aspects |
 
 💡 Use Cases
+
 *   AI Alignment: Handle abstract ethical concepts (fairness, harm, autonomy) without hidden bias
 *   Philosophical Education: Navigate complex concepts (consciousness, free will, truth) systematically
 *   Policy & Ethics: Address value-laden terms (freedom, equality, security) from multiple legitimate angles
@@ -45,46 +47,43 @@ It combines:
 ✅ Consensus Safeguards – Never presents fringe views as equal to overwhelming expert consensus
 
 📂 Project Structure
+
 *   ACDP-Universal-v6.3.md – The complete protocol (PROTOCOL FILE)
 *   README.md – This file
 *   CHANGELOG.md – Version history
 *   examples/ – Usage examples
-*   **LICENSE – Kenigsberg Proprietary License (KPL) v2.0 Community Edition (English)**
-*   CONTRIBUTING.md – Contribution guidelines
+*   LICENSE – Kenigsberg Proprietary License (KPL) v2.0 Community Edition (English)
+*   CONTRIBUTING.md – Contribution guidelines **[הערה: קובץ זה אולי נשאר, אבל יש לעדכן את תוכנו כדי להפנות ל-KPL V2.0 ואיסור התרומות.]**
 
 ---
 
-**⚖️ Licensing**
-This project is licensed under the **Kenigsberg Proprietary License (KPL) v2.0 Community Edition - Six-Month Trial.**
+⚖️ Licensing
+This project is licensed under the **Kenigsberg Proprietary License (KPL) v2.0 Community Edition - Six-Month Trial**.
+**Copyright © 2025 Michael Kenigsberg. All rights reserved.**
 
-🚫 **IMPORTANT: Six-Month Trial Period & Commercial Path**
-This Work is provided under a time-limited trial license, permitting **Internal Business Use** for **six (6) months only.** After the trial, you must purchase the **Enterprise Edition** or cease all use. Customer-facing use, distribution, or SaaS deployment is strictly prohibited even during the trial.
+🚫 IMPORTANT: Six-Month Trial Period & Commercial Path
+This Work is provided under a time-limited trial license, permitting Internal Business Use for six (6) months only. After the trial, you must purchase the Enterprise Edition or cease all use. Customer-facing use, distribution, or SaaS deployment is strictly prohibited even during the trial.
 
-Full terms and conditions are detailed in the **LICENSE (English) file**.
+Full terms and conditions are detailed in the LICENSE (English) file.
 
 ---
 
-🤝 **Contributing**
-Contributions welcome! See CONTRIBUTING.md for guidelines.
-
-Areas of interest:
-*   Additional examples and test cases
-*   Implementation frameworks for different LLMs
-*   Domain-specific extensions (medical ethics, political philosophy, etc.)
-*   Translations
-*   Performance evaluations
-
-📧 **Contact**
+📧 Contact
 Author: Michael Kenigsberg
-Repository: https://github.com/hthr777-prog/ACDP-u-Protocol
-**License: KPL v2.0 Community Edition (Six-Month Trial)**
+**Email: [נא למלא את כתובת הדוא"ל שלך כאן]**
+Repository: https://github.com/hthr777-prog/ACDP-u-Protocol 
+License: KPL v2.0 Community Edition (Six-Month Trial)
 
-🙏 **Acknowledgments**
+---
+
+🙏 Acknowledgments
 This protocol synthesizes insights from:
+
 *   Ludwig Wittgenstein's later philosophy (language games, family resemblance)
 *   Contemporary ontology engineering and knowledge representation
 *   AI alignment and bias mitigation research
 *   Natural language processing (disambiguation, semantic analysis)
+
 Version: 6.3
 Last Updated: December 2025
-**License Replacement Date: December 8, 2025. The previous CC BY 4.0 license has been replaced by the Kenigsberg Proprietary License (KPL) v2.0 Community Edition - Six-Month Trial.**
+License Replacement Date: December 8, 2025. The previous CC BY 4.0 license has been replaced by the Kenigsberg Proprietary License (KPL) v2.0 Community Edition - Six-Month Trial.
