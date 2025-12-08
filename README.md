@@ -82,7 +82,7 @@ Performance evaluations
 ---
 
 📧 Contact
-Author: Michael Konigsberg
+Author: Michael Kenigsberg
 Repository: https://github.com/hthr777-prog/ACDP-u-Protocol
 License: ACDP-u-Protocol Private & Non-Commercial
 
