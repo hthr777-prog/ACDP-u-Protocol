@@ -1,5 +1,21 @@
 # ACDP 6.3 — Universal Protocol
-**Official Comprehensive Protocol**  
+**Official Comprehensive Protocol**    
+Universal Edition v6.3  
+© 2025 Michael Kenigsberg. All rights reserved.
+
+**Author & Copyright holder:**  
+Michael Kenigsberg  
+December 2025 · Israel
+
+This protocol (including its name, structure, terminology, taxonomy, and methodology)  
+is the original intellectual property of Michael Kenigsberg and is protected by copyright.  
+No use, distribution, modification, or creation of derivative works is permitted  
+without explicit written permission from the author.
+
+Contact: hthr777@gmail.com
+
+
+
 Current stable version — December 2025
 
 This is the main file recommended for default use.  
