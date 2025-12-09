@@ -1,4 +1,19 @@
 # ACDP-Core – True Minimal & Faithful Version
+Universal Edition v6.3  
+© 2025 Michael Kenigsberg. All rights reserved.
+
+**Author & Copyright holder:**  
+Michael Kenigsberg  
+December 2025 · Israel
+
+This protocol (including its name, structure, terminology, taxonomy, and methodology)  
+is the original intellectual property of Michael Kenigsberg and is protected by copyright.  
+No use, distribution, modification, or creation of derivative works is permitted  
+without explicit written permission from the author.
+
+Contact: hthr777@gmail.com
+
+
 
 1. Threshold Test  
    The protocol is activated only if the concept remains essentially ambiguous after checking:  
