@@ -1,4 +1,18 @@
-# ACDP 6.3l — Universal Protocol with Root Addition
+# ACDP 6.3l — Universal Protocol with Root Addition  
+Universal Edition v6.3  
+© 2025 Michael Kenigsberg. All rights reserved.
+
+**Author & Copyright holder:**  
+Michael Kenigsberg  
+December 2025 · Israel
+
+This protocol (including its name, structure, terminology, taxonomy, and methodology)  
+is the original intellectual property of Michael Kenigsberg and is protected by copyright.  
+No use, distribution, modification, or creation of derivative works is permitted  
+without explicit written permission from the author.
+
+Contact: hthr777@gmail.com
+
 
 **Note:** This is the full universal protocol (identical to the main ACDP 6.3), with one additional feature in section 2.7 for an initial indivisible root definition when possible.  
 Use this variant if you want the root addition; otherwise, stick to the standard ACDP.md.
