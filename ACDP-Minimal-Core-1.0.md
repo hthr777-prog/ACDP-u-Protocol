@@ -2,16 +2,44 @@
 Universal Edition v6.3  
 © 2025 Michael Kenigsberg. All rights reserved.
 
-**Author & Copyright holder:**  
-Michael Kenigsberg  
-December 2025 · Israel
+## Provisional Copyright Notice & Usage Terms
 
-This protocol (including its name, structure, terminology, taxonomy, and methodology)  
-is the original intellectual property of Michael Kenigsberg and is protected by copyright.  
-No use, distribution, modification, or creation of derivative works is permitted  
-without explicit written permission from the author.
+**Copyright © 2025 Michael Kenigsberg. All rights reserved.**
 
-Contact: hthr777@gmail.com
+---
+
+### 1. Current Status & Scope
+This work, including all source files and documentation associated with v6.3 and all subsequent versions, is currently protected under copyright. All rights are reserved by the author.
+
+No commercial use, distribution, reproduction, modification, or creation of derivative works is permitted without explicit written permission.
+
+Limited personal, research, or academic use of the work is permitted, provided the user agrees to all terms herein.
+
+---
+
+### 2. Superseding Prior Licenses (License Switch)
+This Provisional Copyright Notice and Usage Terms supersedes and replaces any prior Open Source or Community licenses that may have been associated with earlier versions of the ACDP Protocol, effective immediately.
+
+The Author, Michael Kenigsberg, reserves the exclusive right to re-license the work and has chosen to remove the prior public license offering. This change applies to all new downloads, access, or ongoing use of this version (v6.3) and above.
+
+---
+
+### 3. Future Licensing
+The author may release this protocol under a different license in the future. No assumptions should be made about future availability or terms.
+
+---
+
+### 4. Contact
+For inquiries about licensing, collaboration, or permitted use:  
+Email: hthr777@gmail.com  
+Repository: https://github.com/hthr777-prog/ACDP-u-Protocol
+
+---
+
+### 5. Acknowledgment
+By using or accessing this work, you acknowledge that you have read this notice, understand it, and agree to be bound by its terms.
+
+**END OF LICENSE**
 
 
 
