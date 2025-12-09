@@ -11,7 +11,7 @@ is the original intellectual property of Michael Kenigsberg and is protected by 
 No use, distribution, modification, or creation of derivative works is permitted  
 without explicit written permission from the author.
 
-Contact: michael.kenigsberg.acdp@gmail.com
+Contact: hthr777@gmail.com
 
 Activate only when the concept remains essentially ambiguous after context, intent, shared knowledge, and obvious factual/professional framework.
 
