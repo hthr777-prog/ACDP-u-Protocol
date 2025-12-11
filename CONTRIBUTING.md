@@ -1,45 +1,47 @@
-ACDP–Universal Protocol – Communication Guidelines (Updated for KPL v2.0)
+## 🔒 ACDP – Universal Protocol – Communication Guidelines (v7.1 Proprietary)
 
-⚠️ IMPORTANT NOTICE REGARDING CONTRIBUTIONS
-The ACDP–Universal protocol is distributed under the **Kenigsberg Proprietary License (KPL) v2.0 Community Edition – Six-Month Trial**.
+**Copyright © 2025 Michael Kenigsberg. All Rights Reserved.**
 
-**Per Section 10 of the KPL, the development of The Work is closed and exclusively reserved for the original Author (Michael Kenigsberg). External contributions, feature requests, or suggested ontological refinements (via Pull Requests or Issues) are not permitted.**
+### ⚠️ IMPORTANT NOTICE: Development Status and Usage Terms
 
-This document outlines the **limited channels** available for communication regarding the protocol.
-
----
-
-## 1. 🚫 Prohibition of Contributions
-
-### 1.1 The Work is Closed Source Development
-*   **Pull Requests (PRs):** Any submission of a Pull Request will be **automatically closed** without review.
-*   **Feature/Content Suggestions:** Issues opened for the purpose of proposing new content, ontological structures, style changes, or feature additions will be **closed**. The protocol’s conceptual integrity and Essence Criterion are maintained exclusively by the Author.
+The ACDP–Universal protocol is distributed under the **All Rights Reserved (Provisional)** license (ACDP v7.1). This document reinforces the absolute restrictions on contributions and clarifies the official channels for communicating critical issues.
 
 ---
 
-## 2. 📝 Authorized Communication Channels
+### 1. 🚫 Prohibition of External Contributions
 
-The following types of communication are the only ones permitted for the public repository:
+#### 1.1 The Work is Exclusive Proprietary Development
 
-### 2.1 Critical Bug Reports
-You may open an Issue to report a **critical, verifiable error** in the protocol’s internal logic, implementation documentation, or a factual error in an ontological example.
+Per the terms of the ACDP v7.1 license, the development and conceptual refinement of The Work are closed and exclusively reserved for the original Author (Michael Kenigsberg).
 
-*   **Before reporting:** Please ensure the issue is an error and not merely a difference in philosophical interpretation. The report must relate to the protocol's stated purpose and structure.
-*   **How to report:** Use the designated Issue template (if available) or format your report clearly, focusing on:
-    *   **The Error:** What specific part of the protocol is incorrect?
-    *   **The Impact:** How does this error affect the protocol's function?
-    *   **The Correction:** Suggest a precise correction (only for factual errors, not ontological changes).
-
-### 2.2 License & Commercial Inquiries
-All inquiries regarding licensing, purchasing the **Enterprise Edition**, extending the trial, or commercial use must be directed to the Author via email.
-
-*   **Email:** hthr777@gmail.com
+* **Pull Requests (PRs):** Any submission of a Pull Request will be automatically closed without review.
+* **Feature/Content Suggestions:** Issues or other communications opened for the purpose of proposing new ontological structures, conceptual refinements, or feature additions are prohibited and will be closed. The protocol’s conceptual integrity and Essence Criterion are maintained exclusively by the Author.
 
 ---
 
-## 3. ⚖️ Licensing Agreement
-By viewing or using this repository, you agree to the full terms and conditions of the **Kenigsberg Proprietary License (KPL) v2.0 Community Edition - Six-Month Trial**, found in the `LICENSE` file. All communication is subject to the Code of Conduct and must be respectful and professional.
+### 2. 📝 Authorized Communication Channels
+
+The following types of communication are the **only ones permitted** for the public repository:
+
+#### 2.1 Critical Logic and Factual Error Reports (Bug Reports)
+
+You may open an Issue only to report a critical, verifiable error in the protocol’s internal logic, implementation documentation, or a factual error in an ontological example.
+
+* **Before reporting:** Please ensure the issue relates to a verifiable error (e.g., in a cited fact or an error in the stated structure), and not merely a philosophical interpretation.
+* **How to report:** Use a designated Issue template or format your report clearly, focusing on:
+    * **The Error:** What specific part of the protocol is demonstrably incorrect based on its *stated* purpose?
+    * **The Correction:** Suggest a precise, factual correction (only for factual errors, not ontological changes).
+
+#### 2.2 License & Commercial Inquiries
+
+All inquiries regarding licensing, commercial use, or collaborations must be directed to the Author via email.
+
+* **Email:** hthr777@gmail.com
 
 ---
 
-Thank you for respecting the terms of the KPL v2.0.
+### 3. ⚖️ Governing Terms
+
+By viewing or using this repository, you agree to the full terms and conditions of the **ACDP v7.1 All Rights Reserved (Provisional) License**, found in the LICENSE file. All communication is subject to the Code of Conduct and must be respectful and professional.
+
+Thank you for respecting the proprietary terms of the ACDP v7.1 Protocol.
