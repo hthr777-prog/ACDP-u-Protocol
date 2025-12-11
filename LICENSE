@@ -1,45 +1,112 @@
+# ACDP – PROPRIETARY LICENSE AGREEMENT (v6.3)
+
+**THIS PROTOCOL IS PROTECTED BY COPYRIGHT (ALL RIGHTS RESERVED).**
+
+**STRICTLY NO COMMERCIAL USE OR REDISTRIBUTION IS PERMITTED.** This license grants limited, non-transferable rights solely for private study and academic research. Consult Section 1 and Section 2 for permitted usage limits.
+
 # ACDP – Universal Abstract Concept Disambiguation Protocol (v6.3)
-## Provisional Copyright Notice & Usage Terms
+## Copyright Notice & Usage Terms (Provisional)
 
-**Copyright © 2025 Michael Kenigsberg. All rights reserved.**
-
----
-
-## 1. Current Status & Scope
-
-This work, including all source files and documentation associated with **v6.3 and all subsequent versions**, is currently **protected under copyright**. All rights are reserved by the author.
-
-No commercial use, distribution, reproduction, modification, or creation of derivative works is permitted without explicit written permission.
-
-Limited personal, research, or academic use of the work is permitted, provided the user agrees to all terms herein.
+Copyright © 2025 Michael Kenigsberg. All rights reserved.
 
 ---
 
-## 2. Superseding Prior Licenses (License Switch)
+## 1. Scope & Current Status
 
-This Provisional Copyright Notice and Usage Terms **supersedes and replaces any prior Open Source or Community licenses** that may have been associated with earlier versions of the ACDP Protocol, **effective immediately.**
+The ACDP protocol, including all versions (v6.3 and above), associated files, and documentation, is fully protected under copyright.  
+All rights are reserved by the author.
 
-The Author, Michael Kenigsberg, reserves the exclusive right to re-license the work and has chosen to remove the prior public license offering. This change applies to all new downloads, access, or ongoing use of this version (v6.3) and above.
+**Permitted Use:**
+
+- Personal use  
+- Research purposes  
+- Academic or educational use  
+- Integration into personal AI systems for private use only  
+- Reading, analysis, and non-commercial study  
+
+**Prohibited Use:**
+
+- Any commercial use  
+- Distribution, publication, or public sharing  
+- Modification, adaptation, translation, or creation of derivative works  
+- Inclusion or integration in products or services provided to third parties  
+- Any use implying ownership or misrepresentation of the protocol  
+
+Explicit written permission from the author is required for any exceptions.
 
 ---
 
-## 3. Future Licensing
+## 2. AI Integration Clause
 
-The author **may release this protocol under a different license in the future**. No assumptions should be made about future availability or terms.
+Integration of the protocol into AI systems or software tools is **permitted only** if:
+
+- The system is for personal, experimental, research, or educational purposes  
+- It is **not intended for use by third parties**, sale, distribution, or commercial purposes
+
+Any AI system distributed, sold, or offered to others without explicit permission is considered **commercial use** and is prohibited.
 
 ---
 
-## 4. Contact
+## 3. Fair Use Clarification
 
-For inquiries about licensing, collaboration, or permitted use:  
+Users may analyze, reference, or quote the protocol for **research, educational, or academic purposes**, even in small excerpts, provided such use is **non-commercial** and **properly attributed**.
+
+---
+
+## 4. Limitation of Liability
+
+The protocol is provided "as-is" without any warranty.  
+The author shall **not be liable** for any damages arising from use, misuse, or inability to use the protocol, including integration into AI systems.
+
+---
+
+## 5. Misrepresentation Clause
+
+Users may **not claim ownership, authorship, or proprietary rights** over the protocol or its content.  
+Any publication, presentation, or software integrating the protocol must clearly **attribute Michael Kenigsberg as the copyright holder**.
+
+---
+
+## 6. Superseding Previous Licenses
+
+This license **supersedes and cancels all prior licenses**, including any previous open source or community licenses.  
+From the moment of publication, this is the only valid license.
+
+---
+
+## 7. Future Licensing
+
+The author reserves the right to:
+
+- Modify the license terms in the future  
+- Release commercial licensing  
+- Open certain parts under open source licenses  
+- Offer licenses for academic institutions or organizations  
+
+No assumptions should be made regarding future licensing terms.
+
+---
+
+## 8. Governing Law
+
+This license is governed by the laws of Israel.  
+Any dispute arising from the use or interpretation of this license shall be subject to the jurisdiction of Israeli courts.
+
+---
+
+## 9. Contact for Permissions
+
+For inquiries regarding permissions, commercial use, collaborations, or licensing:
 
 **Email:** hthr777@gmail.com  
 **Repository:** https://github.com/hthr777-prog/ACDP-u-Protocol
 
 ---
 
-## 5. Acknowledgment
+## 10. Acknowledgment
 
-By using or accessing this work, you acknowledge that you have read this notice, understand it, and agree to be bound by its terms.
+By accessing or using the protocol, the user acknowledges that they have read, understood, and agreed to be bound by these terms.
+
+---
 
 **END OF LICENSE**
