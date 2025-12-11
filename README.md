@@ -1,5 +1,5 @@
-# ACDP – Universal Abstract Concept Disambiguation Protocol Universal Edition (v6.3)
-## **🔒 PROPRIETARY AND RESTRICTIVE LICENSE NOTICE**
+# ACDP – Universal Abstract Concept Disambiguation Protocol Universal Edition (v7.1)
+## 🔒 PROPRIETARY AND RESTRICTIVE LICENSE NOTICE
 
 A protocol for identifying, decomposing, and neutrally presenting inherently ambiguous abstract concepts (e.g., “value”, “justice”, “reality”, “freedom”, “time”) that cannot be resolved by context alone.
 
@@ -27,6 +27,15 @@ No rights are granted by implication, estoppel, or jurisdictional default. These
 
 ---
 
+### **🛡️ License Applicability (Governing Principle)**
+
+**The terms of the ACDP v7.1 All Rights Reserved License apply fully to all files and content within this repository.** This includes:
+
+* **Retroactive Protection:** All previous versions and files of the protocol, effective from the date this license was published.
+* **Prospective Protection:** All future versions, updates, corrections, and derivative materials of the ACDP protocol released under this repository.
+
+---
+
 ## 🛡️ Disclaimer and Limitation of Liability
 
 **THE PROTOCOL IS PROVIDED "AS-IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.**
@@ -50,9 +59,9 @@ By accessing and using this protocol, you assume all risks associated with its a
 
 Per the terms of the Provisional Copyright Notice and the Limited Use License, any personal, research, or academic use of the ACDP Protocol must include the following complete citation in all publications, presentations, or derived works:
 
-**Preferred Citation (English):** Michael Kenigsberg, ACDP – Universal Abstract Concept Disambiguation Protocol (Universal Edition v6.3), 2025. [Available at: https://github.com/hthr777-prog/ACDP-u-Protocol]
+**Preferred Citation (English):** Michael Kenigsberg, ACDP – Universal Abstract Concept Disambiguation Protocol (Universal Edition v7.1), 2025. [Available at: https://github.com/hthr777-prog/ACDP-u-Protocol]
 
-**Preferred Citation (Hebrew):** מייקל קניגסברג, פרוטוקול ACDP – Universal Abstract Concept Disambiguation Protocol (מהדורה אוניברסלית v6.3), 2025. [זמין: https://github.com/hthr777-prog/ACDP-u-Protocol]
+**Preferred Citation (Hebrew):** מייקל קניגסברג, פרוטוקול ACDP – Universal Abstract Concept Disambiguation Protocol (מהדורה אוניברסלית v7.1), 2025. [זמין: https://github.com/hthr777-prog/ACDP-u-Protocol]
 
 ---
 
@@ -110,11 +119,12 @@ Its innovations include:
 
 ## 📂 Repository Structure
 
-* ACDP-Universal-v6.3.md — Full protocol specification
+* ACDP-Universal-v7.1.md — Full protocol specification
 * examples/ — Usage demonstrations
 * CHANGELOG.md — Version history
 * README.md — Overview and introduction
 * LICENSE — Full license text (governed by the laws of Israel)
+* Communication-Guidelines.md — Rules for interaction with the repository
 
 ---
 
@@ -129,8 +139,8 @@ This protocol synthesizes insights from:
 
 ---
 
-**Version:** 6.3
-**Last updated:** December 8, 2025
+**Version:** 7.1
+**Last updated:** December 11, 2025
 **License status:** All previous licenses (CC BY 4.0, KPL Community Edition, etc.) have been revoked and replaced with **All Rights Reserved (Provisional) - Proprietary License**.
 
 Thank you for your interest ♒
